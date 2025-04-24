@@ -1,6 +1,7 @@
-Nama  : Risyad Addiva Hadid
-NIM   : 1217050125
-Kelas : A
+#Nama  : Risyad Addiva Hadid
+#NIM   : 1217050125
+#Kelas : A
+
 NIM Ganjil dengan Algoritma Decision Tree
 
 Tahapan dan Langkah Klasifikasi 
